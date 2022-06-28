@@ -1,0 +1,45 @@
+{
+  "name": "melody",
+  "version": "3.1.4",
+  "description": " Melody is a Discord chat bot.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "void206551",
+  "license": "MIT",
+  "dependencies": {
+    "@ksoft/api": "^3.1.9",
+    "002": "^1.0.5",
+    "axios": "^0.21.1",
+    "canvacord": "^5.2.1",
+    "country-list": "^2.2.0",
+    "discord.js": "^12.5.3",
+    "fetch-json": "^2.4.4",
+    "fs": "0.0.1-security",
+    "fun-responses": "^1.3.2",
+    "got": "^11.8.2",
+    "memejs": "^2.0.1",
+    "nekos.life": "^2.0.7",
+    "node-osu": "^2.2.1",
+    "node.js": "0.0.1-security",
+    "request": "^2.88.2",
+    "statcord.js": "^3.2.0",
+    "steam-web": "^0.7.0",
+    "steamid": "^1.1.3",
+    "steamid-parser": "^1.0.1",
+    "topgg-autoposter": "1.1.9"
+  },
+  "bugs": {
+    "url": "https://github.com/void-melody/melody/issues"
+  },
+  "homepage": "https://melody.void206551.dev/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/void-melody/melody.git"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "eslint": "^7.28.0"
+  }
+}

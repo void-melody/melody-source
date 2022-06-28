@@ -1,0 +1,8 @@
+node_modules
+To Do.md
+botLock.js
+config.json
+cmds/op.js
+cmds/deop.js
+.idea
+.env
